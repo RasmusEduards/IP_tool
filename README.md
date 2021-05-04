@@ -1,2 +1,2 @@
 # IP_tool
-To check overlapping CIDR ranges
+This tool checks wheter two CIDR ranges are overlapping or not.
